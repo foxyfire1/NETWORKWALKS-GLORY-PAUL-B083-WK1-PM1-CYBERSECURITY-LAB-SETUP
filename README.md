@@ -58,22 +58,22 @@ Created a VirtualBox snapshot to preserve the configured virtual machine for rec
 The following screenshots provide evidence of the lab configuration.
 
 ### VirtualBox Manager
-![VirtualBox Manager](screenshots/Screenshot-1.png)
+![VirtualBox Manager](screenshots/Screenshot%201.png)
 
 ### NAT Network Configuration
-![NAT Network Configuration](screenshots/Screenshot-2.png)
+![NAT Network Configuration](screenshots/Screenshot%202.png)
 
 ### Kali Linux IP Configuration
-![Kali IP Configuration](screenshots/Screenshot-3.png)
+![Kali IP Configuration](screenshots/Screenshot%203.png)
 
 ### Internet Connectivity Tests
-![Internet Connectivity](screenshots/Screenshot-4.png)
+![Internet Connectivity](screenshots/Screenshot%204.png)
 
 ### Shared Folder Configuration
-![Shared Folder](screenshots/Screenshot-5.png)
+![Shared Folder](screenshots/Screenshot%205.png)
 
 ### Virtual Machine Snapshot
-![Kali Snapshot](screenshots/Screenshot-6.png)
+![Kali Snapshot](screenshots/Screenshot%206.png)
 
 ## 6. Troubleshooting Experience
 
